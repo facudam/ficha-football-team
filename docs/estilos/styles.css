@@ -103,3 +103,18 @@
     color: white;
 
 }
+
+@media screen and (max-width: 720px){
+    .header__container__title{
+        font-size: 34px;
+    }
+
+    .equipo #nombre-equipo{
+        font-size: 28px;
+    }
+    .miembros .coach{
+        font-size: 18px;
+    }
+
+}
+    
